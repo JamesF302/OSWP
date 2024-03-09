@@ -1,0 +1,20 @@
+You can use JLCPCB or PCBWay for manufacturing the pcb gerbers.
+
+This project will require basic soldering skills and access to a 3D printer
+
+- 1x Raspberry pi pico (or pico W, if you are using Santroller and want to retain wireless connectivity)
+- 2x Kailh BOX Navy switches
+- 1x Micro USB cable (ideally 10ft)
+- Cable ties for USB routing piece
+- 7x #3 x 1/4" machine screws to attach strum switch bracket & USB routing piece to pcb
+
+Strum switch bracket is not required, but recommended in order to keep the switches parallel while installing them.
+
+USB cable routing piece may not fit your cable, please check to make sure your cable is the correct diameter. (3.2mm roughly)
+
+
+
+
+
+
+
